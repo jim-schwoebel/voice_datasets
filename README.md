@@ -1,5 +1,7 @@
 # voice_datasets
-A comprehensive list of open source voice datasets.
+A comprehensive list of open source voice and music datasets. I released this for the talk @ the VOICE Summit 2019. 
+
+![](https://media.giphy.com/media/3o6ozifkiTecWsJOFO/giphy.gif)
 
 ## Audio datasets 
 There are two main types of audio datasets: speech datasets and audio event/music datasets. 
@@ -42,3 +44,10 @@ There are two main types of audio datasets: speech datasets and audio event/musi
 * [Karoldvl-ESC](https://github.com/karoldvl/ESC-50) - The ESC-50 dataset is a labeled collection of 2000 environmental audio recordings suitable for benchmarking methods of environmental sound classification.
 * [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/) - The Million Song Dataset is a freely-available collection of audio features and meta-data for a million contemporary popular music tracks. 280 GB in size.
 * [Urban Sound Dataset](https://urbansounddataset.weebly.com/) - two datasets and a taxonomy for urban sound research.
+
+## Learn more
+Any feedback this repository is greatly appreciated. 
+
+* If you want to learn more about voice computing, check out [Voice Computing in Python](https://github.com/jim-schwoebel/voicebook) book.
+* If you'd like to be mentored by someone on our team, check out the [Innovation Fellows Program](http://neurolex.ai/research).
+* If you want to talk to me directly, please send me an email @ js@neurolex.co. 
