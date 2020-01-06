@@ -1,5 +1,5 @@
 # voice_datasets
-A comprehensive list of open source voice and music datasets. I released this for the talk @ the VOICE Summit 2019. If you are looking to engineer your own voice dataset, check out https://surveylex.com/research
+A comprehensive list of open source voice and music datasets. I released this for the talk @ the [VOICE Summit 2019.](https://github.com/jim-schwoebel/voice_gender_detection) If you are looking to engineer your own voice dataset, check out https://surveylex.com/research
 
 ![](https://media.giphy.com/media/3o6ozifkiTecWsJOFO/giphy.gif)
 
