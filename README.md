@@ -56,7 +56,7 @@ There are two main types of audio datasets: speech datasets and audio event/musi
 ## Learn more
 Any feedback this repository is greatly appreciated. 
 
-* Suggest a new dataset to add in the [using this link](https://github.com/jim-schwoebel/voice_datasets/issues/new)
+* Suggest a new dataset to add in the [using this link](https://github.com/jim-schwoebel/voice_datasets/issues/new).
 * If you want to learn more about voice computing, check out [Voice Computing in Python](https://github.com/jim-schwoebel/voicebook) book.
 * If you'd like to be mentored by someone on our team, check out the [Innovation Fellows Program](http://neurolex.ai/research).
 * If you want to talk to me directly, please send me an email @ js@neurolex.co. 
