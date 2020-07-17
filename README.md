@@ -7,7 +7,6 @@ A comprehensive list of open source voice and music datasets. I released this fo
 There are two main types of audio datasets: speech datasets and audio event/music datasets. 
 
 ### Speech datasets 
-* [2000 HUB5 English](https://catalog.ldc.upenn.edu/LDC2002T43) - The Hub5 evaluation series focused on conversational speech over the telephone with the particular task of transcribing conversational speech into text. Its goals were to explore promising new areas in the recognition of conversational speech, to develop advanced technology incorporating those ideas and to measure the performance of new technology. (🛑 not open source)
 * [Arabic Speech Corpus](http://en.arabicspeechcorpus.com/) - The Arabic Speech Corpus (1.5 GB) is a Modern Standard Arabic (MSA) speech corpus for speech synthesis. The corpus contains phonetic and orthographic transcriptions of more than 3.7 hours of MSA speech aligned with recorded speech on the phoneme level. The annotations include word stress marks on the individual phonemes. 
 * [ASR datasets](https://github.com/robmsmt/ASR_Audio_Data_Links) - A list of publically available audio data that anyone can download for ASR or other speech activities
 * [AudioMNIST](https://github.com/soerenab/AudioMNIST) - The dataset consists of 30000 audio samples of spoken digits (0-9) of 60 different speakers
