@@ -65,5 +65,6 @@ Any feedback this repository is greatly appreciated.
 
 * Suggest a new dataset to add in the [using this link](https://github.com/jim-schwoebel/voice_datasets/issues/new).
 * If you want to learn more about voice computing, check out [Voice Computing in Python](https://github.com/jim-schwoebel/voicebook) book.
+* If you are looking for a framework to start building machine learning applications in voice computing, check out [Allie](https://github.com/jim-schwoebel/allie).
 * If you'd like to be mentored by someone on our team, check out the [Innovation Fellows Program](http://neurolex.ai/research).
 * If you want to talk to me directly, please send me an email @ js@neurolex.co. 
