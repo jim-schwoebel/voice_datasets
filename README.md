@@ -57,6 +57,7 @@ There are two main types of audio datasets: speech datasets and audio event/musi
 * [Freesound dataset](https://www.kaggle.com/c/freesound-audio-tagging-2019/data) - 678,511 candidate annotations that express the potential presence of sound sources in audio clips. See https://annotator.freesound.org/ and https://annotator.freesound.org/fsd/explore/ for more information. 
 * [Karoldvl-ESC](https://github.com/karoldvl/ESC-50) - The ESC-50 dataset is a labeled collection of 2000 environmental audio recordings suitable for benchmarking methods of environmental sound classification.
 * [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/) - The Million Song Dataset is a freely-available collection of audio features and meta-data for a million contemporary popular music tracks. 280 GB in size.
+* [MUSDB18](https://sigsep.github.io/datasets/musdb.html) - Multi-track music dataset for music source separation. 150 tracks (22 Gb).
 * [Public domain sounds](http://pdsounds.tuxfamily.org/) - Good for wake word detection; a wide array of sounds that can be used for object detection research (524 MB - 635 SOUNDS - Open for public use). 
 * [Urban Sound Dataset](https://urbansounddataset.weebly.com/) - two datasets and a taxonomy for urban sound research.
 
