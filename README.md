@@ -62,6 +62,7 @@ There are two main types of audio datasets: speech datasets and audio event/musi
 * [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/) - The Million Song Dataset is a freely-available collection of audio features and meta-data for a million contemporary popular music tracks. 280 GB in size.
 * [MUSDB18](https://sigsep.github.io/datasets/musdb.html) - Multi-track music dataset for music source separation. 150 tracks (22 Gb).
 * [Public domain sounds](http://pdsounds.tuxfamily.org/) - Good for wake word detection; a wide array of sounds that can be used for object detection research (524 MB - 635 SOUNDS - Open for public use). 
+* [RSC Sounds](https://github.com/2003scape/rsc-sounds) - RSC sounds from RuneScape Classic (8-bit, u-law encoded, 8000 Hz pcm samples).
 * [Urban Sound Dataset](https://urbansounddataset.weebly.com/) - two datasets and a taxonomy for urban sound research.
 
 ## Learn more
