@@ -23,6 +23,7 @@ There are two main types of audio datasets: speech datasets and audio event/musi
 * [Free Spoken Digit Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset) -4 speakers, 2,000 recordings (50 of each digit per speaker), English pronunciations.
 * [Flickr Audio Caption](https://groups.csail.mit.edu/sls/downloads/flickraudio/) - 40,000 spoken captions of 8,000 natural images, 4.2 GB in size.
 * [ISOLET Data Set](https://data.world/uci/isolet) - This 38.7 GB dataset helps predict which letter-name was spoken — a simple classification task.
+* [Libriadapt](https://github.com/akhilmathurs/libriadapt) - It is primarily designed to faciliate domain adaptation research for ASR models, and contains the following three types of domain shifts in the data.
 * [Libri-CSS](https://github.com/chenzhuo1011/libri_css) - derived from LibriSpeech by concatenating the corpus utterances to simulate a conversation and capturing the audio replays with far-field microphones.
 * [LibriMix](https://github.com/JorisCos/LibriMix) - LibriMix is an open source dataset for source separation in noisy environments. It is derived from LibriSpeech signals (clean subset) and WHAM noise. It offers a free alternative to the WHAM dataset and complements it. It will also enable cross-dataset experiments.
 * [Librispeech](https://www.openslr.org/12) - LibriSpeech is a corpus of approximately 1000 hours of 16Khz read English speech derived from read audiobooks from the LibriVox project.
